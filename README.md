@@ -34,8 +34,8 @@ I'm Caitlin, a Web & UX Design student at Yoobee Colleges, with a passion for we
   <img src="https://github.com/user-attachments/assets/2de8f70c-1894-4c11-8844-011d142e66cb" alt="Welly Accommodations Mockup" width="200" />
     <h3> Welly Accommodations </h3>
     <p> I had created this website for my Level 6 Course for Tourism NZ by utilising Fullpage Js, Mapbox Js, and form validation. <br> Welly Accommodations is a New Zealand accommodation finder "sponsored" by Tourism NZ, that offers their users the best accommodation for their specified travelling needs. </p>
+     <p> <a href="https://github.com/caitlinanderson099/summative-2.2-accommodation-finder"> GitHub Repo </a></p>
     <p> <a href="https://summative-2-2-accommodation-finder.vercel.app/"> View Project </a> </p>
-    <p> <a href="https://github.com/caitlinanderson099/summative-2.2-accommodation-finder"> GitHub Repo </a></p>
  
 </div>
   
