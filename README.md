@@ -20,27 +20,27 @@ I'm Caitlin, a Web & UX Design student at Yoobee Colleges, with a passion for we
 ![](https://img.icons8.com/?size=100&id=13677&format=png&color=000000)
 
 ## Featured Projects
-<div style="display: flex; flex-direction: row; align-items: center;">
-  
-<div style="display: flex; flex-direction: column; align-items: center;">
+
+<div style="display: flex; align-items: center; justify-content: center;">
   <img src="https://github.com/user-attachments/assets/3c9ec838-c45e-49fd-a9e9-56f74eaaeab7" alt="Jewellery Supreme Mockup" width="200" style="margin-right: 10px;"/>
-  <p><a href="https://github.com/caitlinanderson099/formative-2.2-single-page-app"> </a>
-    <h3> Jewellery Supreme Store </h3>
-    <p> a brief desc </p>
+    <h3><a href="https://github.com/caitlinanderson099/formative-2.2-single-page-app">Jewellery Supreme Store</a></h3>
+    <p> I had created this website for my Level 6 Course utilising Fullpage Js and form validation. <br> Jewellery Supreme is a highend jewellery store that strives to offer their
+    customers gorgeous, stellar jewellery for any occasion. </p>
 </div>
 
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/2de8f70c-1894-4c11-8844-011d142e66cb" alt="Welly Accommodations Mockup" width="200" style="margin-right: 10px;"/>
-  <p><a href="https://github.com/caitlinanderson099/summative-2.2-accommodation-finder"> </a>
-    <h3> Welly Accommodations </h3>
-    <p> a brief desc </p>
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+  <img src="https://github.com/user-attachments/assets/2de8f70c-1894-4c11-8844-011d142e66cb" alt="Welly Accommodations Mockup" width="200" />
+    <h3><a href="https://github.com/caitlinanderson099/summative-2.2-accommodation-finder">Welly Accommodations</a></h3>
+    <p> I had created this website for my Level 6 Course for Tourism NZ by utilising Fullpage Js, Mapbox Js, and form validation. <br> Welly Accommodations is a New Zealand accommodation finder "sponsored" by Tourism NZ, that offers their users the best accommodation for their specified travelling needs. </p>
 </div>
-</div>
-
+  
 ## Get In Touch:)
-- LinkedIn [Caitlin Anderson](https://www.linkedin.com/in/caitlin-anderson-75bb16270/)
-- Email caitlin.anderson099@gmail.com
-- Mobile 0273412624
+- LinkedIn: [CaitlinAnderson099](https://www.linkedin.com/in/caitlin-anderson-75bb16270/)
+- Email: [caitlin.anderson099@gmail.com](mailto:caitlin.anderson099@gmail.com)
+- Mobile Number: 027 341 2624
 
 ## Some Fun Facts About Me
-- When I am not coding, you'll find me collecting and building Lego Sets or curling up with a good book
+When I am not coding, you will often find me collecting and building Lego Sets or curling up with a good book.
+<br> <br>
+<img src="https://github.com/user-attachments/assets/d5092941-0a1f-43e3-af7a-2dd481bb098b" alt="" width="200"/>
+<img src="https://github.com/user-attachments/assets/94b802fb-0712-47de-ab1a-88a47ede90e3" alt="" width="200"/>
