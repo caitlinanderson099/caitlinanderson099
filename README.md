@@ -26,12 +26,17 @@ I'm Caitlin, a Web & UX Design student at Yoobee Colleges, with a passion for we
     <h3><a href="https://github.com/caitlinanderson099/formative-2.2-single-page-app">Jewellery Supreme Store</a></h3>
     <p> I had created this website for my Level 6 Course utilising Fullpage Js and form validation. <br> Jewellery Supreme is a highend jewellery store that strives to offer their
     customers gorgeous, stellar jewellery for any occasion. </p>
+   <h3> <a href="https://github.com/caitlinanderson099/formative-2.2-single-page-app"> GitHub Repo </a> </h3>
+  <h3> <a href="https://formative-2-2-single-page-app.vercel.app/"> View Project </a> </h3>
 </div>
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
   <img src="https://github.com/user-attachments/assets/2de8f70c-1894-4c11-8844-011d142e66cb" alt="Welly Accommodations Mockup" width="200" />
-    <h3><a href="https://github.com/caitlinanderson099/summative-2.2-accommodation-finder">Welly Accommodations</a></h3>
+    <h3> Welly Accommodations </h3>
     <p> I had created this website for my Level 6 Course for Tourism NZ by utilising Fullpage Js, Mapbox Js, and form validation. <br> Welly Accommodations is a New Zealand accommodation finder "sponsored" by Tourism NZ, that offers their users the best accommodation for their specified travelling needs. </p>
+    <h3> <a href="https://summative-2-2-accommodation-finder.vercel.app/"> View Project </a> </h3>
+    <h3> <a href="https://github.com/caitlinanderson099/summative-2.2-accommodation-finder"> GitHub Repo </a></h3>
+ 
 </div>
   
 ## Get In Touch:)
