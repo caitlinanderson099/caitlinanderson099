@@ -37,7 +37,6 @@ I'm Caitlin, a Web & UX Design student at Yoobee Colleges, with a passion for we
 ## Get In Touch:)
 - LinkedIn: [CaitlinAnderson099](https://www.linkedin.com/in/caitlin-anderson-75bb16270/)
 - Email: [caitlin.anderson099@gmail.com](mailto:caitlin.anderson099@gmail.com)
-- Mobile Number: 027 341 2624
 
 ## Some Fun Facts About Me
 When I am not coding, you will often find me collecting and building Lego Sets or curling up with a good book.
