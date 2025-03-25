@@ -1,5 +1,5 @@
 ## Hey There! :cowboy_hat_face:
-I'm Caitlin, a Web & UX Design student at Yoobee Colleges, with a passion for web design and development. I really enjoy designing and creating innovative solutions which I can bring to life through code.
+I'm Caitlin, a Web & UX Design graduate from Yoobee Colleges, with a passion for web design and development. I really enjoy designing and creating innovative solutions which I can bring to life through code.
 
 ## What do I do?
 ### Frontend
